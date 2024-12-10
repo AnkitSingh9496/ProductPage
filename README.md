@@ -39,13 +39,13 @@ Ensure you have the following installed:
 2. **Install Dependencies**:
 
 npm install
-# or
+or
 yarn install
 
 3. **Run the Development Server**:
 
 npm run dev
-# or
+or
 yarn dev
 The app will be running at http://localhost:3000.
 
