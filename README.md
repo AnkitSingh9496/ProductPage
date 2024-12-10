@@ -70,6 +70,9 @@ This project is deployed on Vercel. Visit the live deployment link: Live Demo
 
 ## Lighthouse Score
 **Performance**: 95+
+
 **Accessibility**: 100
+
 **Best Practices**: 100
+
 **SEO**: 100
