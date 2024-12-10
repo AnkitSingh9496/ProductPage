@@ -1,4 +1,4 @@
-# Next.js Frontend Assignment
+# Weframe Tech Next.js Frontend Assignment
 
 This project is a frontend-only implementation created as part of the Weframetech hiring process. The goal is to deliver a pixel-perfect, responsive design based on the provided Figma prototype. The application is built with **Next.js**, **TypeScript**, and **Tailwind CSS**, and deployed on **Vercel** for live demonstration.
 
